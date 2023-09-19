@@ -1,0 +1,27 @@
+.features{
+    text-align: center;
+    font:500 36px Poppins!important;
+    color:black;
+}
+.feature{
+    text-align: center;
+    font:500 36px Poppins!important;
+    color:#eb5424;
+}
+.leading{
+    font:400 18px Poppins;
+    text-align: justify;
+    line-height: 2.0;
+}
+.context{
+    margin-top:100px;
+}
+.headers{
+    font:500 16px Poppins;
+}
+.subfeatures{
+    text-align: center;
+    font:500 17px Poppins;
+    color:black;
+    /* margin-left: 60px; */
+}

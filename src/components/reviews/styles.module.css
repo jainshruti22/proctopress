@@ -1,0 +1,30 @@
+.reviews{
+    text-align: center;
+    font:500 36px Poppins!important;
+    color:#eb5424;
+}
+.review{
+    background-color: white;
+    border-radius:5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+}
+.customer{
+    text-align: center;
+    font:500 18px Poppins!important;
+}
+.customers{
+    text-align: justify;
+    font:400 16px Poppins!important;
+}
+.testimonials{
+    color:#eb5424;
+    font:600 18px Poppins;
+}
+a:hover{
+    color:#eb5424;
+}
+.context{
+    color:black;
+    font:600 18px Poppins;
+}

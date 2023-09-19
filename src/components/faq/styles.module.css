@@ -1,0 +1,31 @@
+.heading{
+    text-align: center;
+    font:500 36px Poppins!important;
+    color:black;
+}
+.subheading{
+    text-align: center;
+    font:500 36px Poppins!important;
+    color:#eb5424;
+}
+.question {
+    padding: 1rem 1.5rem;
+    border: 2px solid #eae6eb;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+.questions{
+    box-shadow: 0 1px 11px 4px #f7efef;
+}
+.answer{
+    border:none;
+    background-color: white;
+    padding-top:5px;
+    font:18px Poppins!important;
+}
+.answers{
+    padding-top:10px;
+    font:400 17px/1.8 Poppins!important;
+    text-align: justify;
+}

@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap");
+.flexCenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:20px 0px 0px 50px;
+    /* border-right: 1px solid black; */
+    background-color: #212121;
+    text-align: center;
+}
+.stats{
+    border-right: 1px solid white;
+}
+.ratings{
+    background-color: #211f1f;
+}
+.content{
+    border-right: 1px solid silver;
+}
+.section{
+    /* font-size:30px; */
+    margin-top: 20px;
+    margin-bottom: 10px;
+    letter-spacing: 0.2px;
+    text-transform: none;
+    color:white;
+    /* font-weight: bold; */
+    font: 600 50.7px Poppins;
+}
+.text{
+    color:white;
+    font: 500 20.7px Poppins;
+    padding-bottom: 12px;
+}
+.sectionheader{
+    color:white;
+    font:800 44px;
+    text-transform: none;
+    letter-spacing: 0.2px;
+    margin-top:50px;
+    margin-bottom:10px;
+}
+.texts{
+    color:#3d3d3d;
+    font:500 19px Poppins;
+    background-color: white;
+    padding: 0.4em 1.4em 0.4em 1.4em;
+    border-radius:10px;
+    
+}
+.ribbontext{
+    color:white;
+    font: 500 20.7px Poppins;
+    padding-bottom:12px;
+    padding-top:20px;
+    text-decoration: none;
+}
+.orangetext{
+    color: #eb5424;
+    font-weight: 400;
+}

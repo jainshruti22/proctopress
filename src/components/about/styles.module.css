@@ -1,0 +1,29 @@
+.about{
+    text-align: center;
+    font:500 36px Poppins!important;
+    color:black;
+}
+.abouts{
+    text-align: center;
+    font:500 36px Poppins!important;
+    color:#eb5424;
+}
+.video{
+    width:700px;
+    height:315px;
+    align-items: center;
+    padding-right:40px;
+}
+.content{
+    font:500 24px Poppins;
+}
+.contents{
+    text-align: justify;
+    font:400 16px/2.2 Poppins;
+}
+@media (max-width: 768px) {
+    .video {
+        max-width: 100%; /* Full width on smaller screens */
+        height: auto; /* Allow the height to adjust based on aspect ratio */
+    }
+}
